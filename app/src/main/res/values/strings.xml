@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevLife</string>
+    <string name="btn_next">Вперед</string>
+    <string name="btn_prev">Назад</string>
+    <string name="iv_contdescr_post">Gif Post from Developer\'s life</string>
+    <string name="error_msg">Произошла ошибка, повторите попытку</string>
+    <string name="btn_retry">Повторить</string>
+</resources>
